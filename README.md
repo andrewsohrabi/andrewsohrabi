@@ -1,6 +1,6 @@
 ### Here is what I am up to! 👋
 
-- 🔭 I’m currently working on React.js and Node.js
+- 🔭 I’m currently working on Typescript
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source health-tech projects
 - 💬 Ask me about Lambda School
