@@ -1,6 +1,6 @@
 ### Here is what I am up to! 👋
 
-- 🔭 I’m currently working on OpenAI, PineCone, Langchain
+- 🔭 I’m currently working on OpenAI, Pinecone (Vector DB), Langchain
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source health-tech projects
 - 💬 Ask me about Lambda School
